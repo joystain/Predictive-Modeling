@@ -1,0 +1,48 @@
+---
+title: "Github"
+author: "Steven Joy"
+date: "December 10, 2024"
+output: html_document
+---
+
+Week 1
+  
+  1. Bias Variance tradeoff
+  2. Overfitting
+  
+Week 2 
+  
+  1. Handling missing Values
+  2. Eploring data visually and using the summary function
+  
+Week 3 
+  
+  1. Linear Regression Techniques
+  2. understanding the meaning of residuals
+  
+Week4
+  
+  1. Logistic Regression
+  2.Precision and recall and why they matter
+  
+Week 5
+  
+  1. poisson regression 
+  2. gamma regression
+
+  
+Week 6
+
+  1. Understanding of what a GBM is and when to use them
+  2. Understanding decision trees
+  
+Week 7 
+
+  1. K means clustering
+  2. how to find optimal number of clusters
+  
+Week 8 
+  
+  1. Understanding of presentations
+  2. Git commands and how to use them
+  
